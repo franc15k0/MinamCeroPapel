@@ -1,0 +1,30 @@
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.log
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+##
+
+LOG_PATH_IS_UNDEFINED/
+target/
+/target/
+pipeline/
+Jenkinsfile111
+Jenkinsfile
+### VS Code ###
+.vscode/
